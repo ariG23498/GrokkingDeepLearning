@@ -2,6 +2,7 @@
 This repository will contain my take on `Andrew Trask's` book `GrokkingDeepLearning`.
 
 ## The way you should go about fidgeting the repository:
-* Forward Propagation
-* Gradient Descent (which also takes into account the learning concept in the neural network)
-* Generalizing Gradient Descent
+1. Forward Propagation
+2. Gradient Descent (which also takes into account the learning concept in the neural network)
+3. Generalizing Gradient Descent
+4. MNIST dataset with `weight` visualization
