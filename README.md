@@ -10,4 +10,5 @@ This repository will contain my take on `Andrew Trask's` book `GrokkingDeepLearn
 6. StreetLight Problem, introducing the concept of input to output correlation
 7. Streetlight Problem, making an intermediate layer for a Deep Neural Network.
 8. Convolution as a structure to reuse `weights`
-9. Sentiment analysis using the `IMDB Review DATASET`
+9. Convolutional Neural Network
+10. Sentiment analysis using the `IMDB Review DATASET`
